@@ -1,9 +1,9 @@
-import java.util.*;//San Mohammed
-public class SJF{//Rahen Mohammed Qader Marroof
+import java.util.*;
+public class SJF{
   public static void main(String[]args){
     Scanner sc=new Scanner (System.in);
     int a=4;
-    int finishP[]=new int [a];//test
+    int finishP[]=new int [a];
     int burst[]=new int [a];
     int start[]=new int [a];
     int arrive[]=new int [a];
